@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Hong Le</h1>
-<h3 align="center">A passionate frontend tester from VietNam</h3>
+<h3 align="center">A passionate tester from VietNam</h3>
 
 - 🌱 I’m currently learning **selenium java, playwright**
 
