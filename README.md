@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tranhongle2201@gmail.com**
 
-- ⚡ Fun fact **reading book,listen to music**
+- ⚡ Fun fact **reading books,listen to music**
 
 
 ## 🌐 Socials:
