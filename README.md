@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **selenium java, playwright**
 
-- 💬 Ask me about **tester manual and tester automation**
+- 💬 Ask me about ** Manual, Automation,API,Database Testing **
 
 - 📫 How to reach me **tranhongle2201@gmail.com**
 
